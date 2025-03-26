@@ -1,0 +1,10 @@
+name: 'plugin-metric-influxdb'
+version: '0.0.0'
+displayName: Metric - InfluxDB
+description: Metric Driver for InfluxDB
+main: lib/index.js
+icon:
+  src: ale.svg
+  background: transparent
+  scale: 1
+  shape: square
