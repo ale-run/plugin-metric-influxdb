@@ -28,36 +28,36 @@ This driver enables you to monitor InfluxDB-collected metrics for services deplo
 
 1. Clone the project repository.
 
-    ```bash
-    git clone https://github.com/ale-run/plugin-metric-influxdb.git
-    ```
+   ```bash
+   git clone https://github.com/ale-run/plugin-metric-influxdb.git
+   ```
 
 2. Navigate to the project directory and run the npm installation command.
 
-    ```bash
-    cd plugin-metric-influxdb
-    npm i
-    ```
+   ```bash
+   cd plugin-metric-influxdb
+   npm i
+   ```
 
 3. Run Ale with the built-in Ale Plugin for InfluxDB.
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 4. Select the target cluster for Ale.
 
-    ```bash
-    ? Select a Kubernetes context: (Use arrow keys)
-      No Cluster Selected 
-      orbstack 
-    ❯ docker-desktop 
-    (Move up and down to reveal more choices)
-    ```
+   ```bash
+   ? Select a Kubernetes context: (Use arrow keys)
+     No Cluster Selected
+     orbstack
+   ❯ docker-desktop
+   (Move up and down to reveal more choices)
+   ```
 
 5. Access via the following address.
 
-    - <http://localhost:9001>
+   - <http://localhost:9001>
 
 ### ⚙️ Configuration
 
