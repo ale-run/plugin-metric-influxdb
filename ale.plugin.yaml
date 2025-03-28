@@ -4,7 +4,6 @@ displayName: Metric - InfluxDB
 description: Metric Driver for InfluxDB
 main: lib/index.js
 icon:
-  src: ale.svg
-  background: transparent
-  scale: 1
-  shape: square
+  src: logo.svg
+  scale: 0.7
+  shape: circle
