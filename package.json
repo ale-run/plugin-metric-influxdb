@@ -1,5 +1,5 @@
 {
-  "name": "plugin-metric-influxdb",
+  "name": "@ale-run/plugin-metric-influxdb",
   "version": "0.1.0",
   "license": "Apache-2.0",
   "description": "Ale Plugin Metric Influxdb",

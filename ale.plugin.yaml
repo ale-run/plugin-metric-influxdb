@@ -1,7 +1,11 @@
-name: 'plugin-metric-influxdb'
-version: '0.0.0'
+name: '@ale-run/plugin-metric-influxdb'
+version: '0.1.0'
 displayName: Metric - InfluxDB
 description: Metric Driver for InfluxDB
+license: Apache-2.0
+author: ale
+homepage: https://ale.run
+repository: ale-run/plugin-metric-influxdb
 main: lib/index.js
 icon:
   src: logo.svg
